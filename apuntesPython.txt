@@ -1,0 +1,12 @@
+comandos para crear un entorno virtual de python
+> mkdir myproject
+> cd myproject
+> py -3 -m venv myProject <--crea entonrno virtual
+
+> venv\Scripts\activate> venv\Scripts\activate  <--Actia el entorno virtual de flask
+
+pip install Flask <-- instalar flask en el entornorno vvirtual
+
+flask --app hello --debug run <-- ejecuta aplicación en ambiente virtual
+
+pip install flask-wtf <-- instalar librería para formularios WTF

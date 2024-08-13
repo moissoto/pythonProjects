@@ -1,0 +1,5 @@
+Herramienta de conversión de unidades, distancia, temperatura
+juego de dados
+calculadora
+web scraper
+CRUD (inventario de almacén)
